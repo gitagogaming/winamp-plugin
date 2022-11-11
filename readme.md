@@ -81,6 +81,7 @@ Default: <b>Winamp</b> Possible choices: ['Winamp']</li>
 | .state.currentTrack.Length | Winamp | Current Track Length |  |   |
 | .state.currentTrack.Playtime | Winamp | Current Track Time Playing |  |   |
 | .state.currentTrack.TimeLeft | Winamp | Current Track Time Left |  |   |
+| .state.currentTrack.NextTrack.Title | Winamp | Next Tracks Title |  |   |
 </details>
 
 <br>
