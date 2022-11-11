@@ -15,7 +15,7 @@
   
 # Description
 
-This documentation generated for Winamp Plugin V102 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
+This documentation generated for Winamp Plugin V103 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
 # Features
 
 ## Actions
