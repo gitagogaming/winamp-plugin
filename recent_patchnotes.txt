@@ -1,0 +1,4 @@
+V1.0.1 Patch Notes:
+Added in Auto-Reconnect
+Added On-Hold Volume Controls
+Added option to Set Volume from 0-100
