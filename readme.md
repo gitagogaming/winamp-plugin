@@ -52,7 +52,7 @@ Default: <b></b> Possible choices: ['On', 'Off', 'Toggle']</li>
 <tr valign='top'><td>Volume slider</td><td> </td><td>Control volume for [1]</td><td><ol start=1><li>Type: choice &nbsp; 
 Default: <b>Winamp</b> Possible choices: ['Winamp']</li>
 </ol></td>
-<tr valign='top'><td>Volume slider</td><td> </td><td>Track Seeking for [1]</td><td><ol start=1><li>Type: choice &nbsp; 
+<tr valign='top'><td>Track Seeking</td><td> </td><td>Track Seeking for [1]</td><td><ol start=1><li>Type: choice &nbsp; 
 Default: <b>Winamp</b> Possible choices: ['Winamp']</li>
 </ol></td>
 </table></details>
