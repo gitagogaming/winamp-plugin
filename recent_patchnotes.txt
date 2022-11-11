@@ -1,6 +1,3 @@
-V1.0.1:
-Changed some action data, users may need to re-add actions to get them to function properly.
-Added in Auto-Reconnect
-Added On-Hold Volume Controls
-Added option to Set Volume from 0-100
+V1.0.3:
+Added in alot of things.. Ill try and recap on this later :)
 
