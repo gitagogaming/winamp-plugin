@@ -15,3 +15,4 @@ Fixed On-Press Raise/Lower Volume not working
 Fixed On-Press Track Seeking for Forward/Reverse not working
 Added in a new action with  "Experimental" buttons - These should also control the basic functions of Winamp.
 Added in Playlist option in "Audio Controls" action.
+Added various descriptions to actions
