@@ -1,4 +1,7 @@
 
+![winamp_800x420](https://user-images.githubusercontent.com/76603653/201495229-2ecd4c7f-5ef7-49ed-83d5-358b01873958.jpg)
+<br>
+
 # Winamp-Plugin
 - [Winamp Plugin](#Winamp-Plugin)
   - [Description](#description)
@@ -15,8 +18,7 @@
   
 # Description
 
-This documentation generated for Winamp Plugin V103 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
-# Features
+Control your Winamp using your mobile device with the help of TouchPortal and this plugin.
 
 ## Actions
 <details open id='tp.plugin.Winamp.mainactions'><summary><b>Category:</b> Winamp <small><ins>(Click to expand)</ins></small></summary><table>
@@ -90,6 +92,4 @@ Default: <b>Winamp</b> Possible choices: ['Winamp']</li>
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
 
-# License
-This plugin is licensed under the [GPL 3.0 License] - see the [LICENSE](LICENSE) file for more information.
 
