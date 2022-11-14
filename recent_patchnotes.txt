@@ -1,7 +1,15 @@
-V1.0.5:
-Fixed On-Press Raise/Lower Volume not working
-Fixed On-Press Track Seeking for Forward/Reverse not working
-Added in a new action with  "Experimental" buttons - These should also control the basic functions of Winamp.
-Added in Playlist option in "Audio Controls" action.
+V1.0.6:
+# Fixes
+Fixed Fadeout option not working, it will now fade out the music + stop it after the fadeout is complete
+Fixed issue where action showed 'Raise' by default when it was not an option
+Fixed Fast-Forward & Rewind 5s not working properly
+
+# New Things
+Added option to set amount of milliseconds to be seeked on the track.
+Added Play File & Add File to Playlist option, Also allows for custom file path location
+Added Set Balance option
+added winamp location option in settings for playing file options
+changed winamp logo to the more "modern' version.
+
 
 
