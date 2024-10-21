@@ -1,4 +1,5 @@
 # Touch Portal Winamp/WACUP Integration
+![image](https://github.com/user-attachments/assets/285185e4-bbf5-4cbb-8898-b8b584434589)
 
 ## Table of Contents
 - [How to Install Touch Portal](#how-to-install-touch-portal)
